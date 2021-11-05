@@ -20,7 +20,7 @@ Optax is an optimization library in the JAX ecosystem. Optax is intended to be a
 | Typical commit size | ~60 insertions|
 | How does the project accept contributions? | Pull requests  |
 | Does the project have an automated test suite? | yes |
-| Does the project use continuous integration? | yes/no |
+| Does the project use continuous integration? | yes |
 | Are any legal/licensing steps required to contribute? | Yes |
 
 The project doesn't require rights to your contribution, but does require contributors to sign a CLA.
